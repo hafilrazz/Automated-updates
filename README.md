@@ -2,24 +2,24 @@
 
 ## Summary
 <!-- STATS:START -->
-**Update:** 2026-08-23T00:40:58.039Z  
-**Last run (UTC):** Sun, 23 Aug 2026 00:40:58 GMT  
-**Force Update Token:** 1787445661536-hnyp4v  
-**Total Public Repos:** 16  
-**Total Stars:** 314 • **Total Forks:** 20  
-**Open Issues:** 2 • **Open PRs:** 1
+**Update:** 2026-08-23T06:22:44.685Z  
+**Last run (UTC):** Sun, 23 Aug 2026 06:22:44 GMT  
+**Force Update Token:** 1787466168655-x5n2cy  
+**Total Public Repos:** 14  
+**Total Stars:** 341 • **Total Forks:** 17  
+**Open Issues:** 2 • **Open PRs:** 0
 <!-- STATS:END -->
 
 ## Languages (Top 10)
 <!-- LANGS:START -->
 Language | Percentage
 --- | ---
-TypeScript | 28.2%
-Python | 25.1%
-JavaScript | 21.4%
-CSS | 11.4%
-Dart | 8.3%
-HTML | 4.7%
+TypeScript | 28.8%
+JavaScript | 24.5%
+Python | 20.9%
+CSS | 11.6%
+Dart | 8.5%
+HTML | 4.8%
 Kotlin | 0.5%
 Dockerfile | 0.2%
 Java | 0.1%
@@ -30,9 +30,9 @@ PowerShell | 0.1%
 <!-- RECENT:START -->
 Repo | Stars | Forks | Updated
 --- | --- | --- | ---
-[Nftk](https://github.com/hafilrazz/Nftk) | 39 | 1 | 2026-08-23
-[Automated-updates](https://github.com/hafilrazz/Automated-updates) | 0 | 2 | 2026-08-22
-[Dotmail](https://github.com/hafilrazz/Dotmail) | 0 | 1 | 2026-08-22
-[Bitconnect](https://github.com/hafilrazz/Bitconnect) | 73 | 3 | 2026-08-22
-[Youtube-clone](https://github.com/hafilrazz/Youtube-clone) | 39 | 1 | 2026-08-17
+[Automated-updates](https://github.com/hafilrazz/Automated-updates) | 1 | 2 | 2026-08-23
+[Dotmail](https://github.com/hafilrazz/Dotmail) | 1 | 1 | 2026-08-22
+[Bitconnect](https://github.com/hafilrazz/Bitconnect) | 116 | 3 | 2026-08-22
+[Youtube-clone](https://github.com/hafilrazz/Youtube-clone) | 44 | 1 | 2026-08-17
+[livetv](https://github.com/hafilrazz/livetv) | 2 | 1 | 2026-08-17
 <!-- RECENT:END -->
