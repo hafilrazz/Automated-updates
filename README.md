@@ -2,11 +2,11 @@
 
 ## Summary
 <!-- STATS:START -->
-**Update:** 2026-09-13T10:46:59.254Z  
-**Last run (UTC):** Sun, 13 Sep 2026 10:46:59 GMT  
-**Force Update Token:** 1789296424405-9b29u0  
-**Total Public Repos:** 15  
-**Total Stars:** 328 • **Total Forks:** 17  
+**Update:** 2026-09-13T15:16:55.890Z  
+**Last run (UTC):** Sun, 13 Sep 2026 15:16:55 GMT  
+**Force Update Token:** 1789312621872-jftmcp  
+**Total Public Repos:** 16  
+**Total Stars:** 329 • **Total Forks:** 17  
 **Open Issues:** 2 • **Open PRs:** 0
 <!-- STATS:END -->
 
@@ -14,25 +14,25 @@
 <!-- LANGS:START -->
 Language | Percentage
 --- | ---
-JavaScript | 27.9%
-TypeScript | 25.2%
-Python | 20.8%
-CSS | 11.3%
-Dart | 7.8%
-HTML | 6.2%
-Kotlin | 0.5%
-Dockerfile | 0.3%
-Java | 0.1%
-PowerShell | 0.1%
+Jupyter Notebook | 49.7%
+JavaScript | 14.0%
+TypeScript | 12.3%
+Python | 10.6%
+CSS | 5.8%
+Dart | 3.8%
+HTML | 3.3%
+Kotlin | 0.2%
+Dockerfile | 0.1%
+Batchfile | 0.0%
 <!-- LANGS:END -->
 
 ## Last 5 Updated Repositories
 <!-- RECENT:START -->
 Repo | Stars | Forks | Updated
 --- | --- | --- | ---
+[Fire-Smoke-Detection](https://github.com/hafilrazz/Fire-Smoke-Detection) | 0 | 0 | 2026-09-13
+[newmajor](https://github.com/hafilrazz/newmajor) | 35 | 1 | 2026-09-13
 [Automated-updates](https://github.com/hafilrazz/Automated-updates) | 3 | 1 | 2026-09-13
-[newmajor](https://github.com/hafilrazz/newmajor) | 35 | 1 | 2026-09-12
 [hafilrazz.github.io](https://github.com/hafilrazz/hafilrazz.github.io) | 1 | 2 | 2026-09-07
 [portshell](https://github.com/hafilrazz/portshell) | 3 | 0 | 2026-09-07
-[Youtube-clone](https://github.com/hafilrazz/Youtube-clone) | 36 | 1 | 2026-09-05
 <!-- RECENT:END -->
