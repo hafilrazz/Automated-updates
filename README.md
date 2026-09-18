@@ -2,11 +2,11 @@
 
 ## Summary
 <!-- STATS:START -->
-**Update:** 2026-09-18T15:25:36.843Z  
-**Last run (UTC):** Fri, 18 Sep 2026 15:25:36 GMT  
-**Force Update Token:** 1789745143185-pcgcli  
-**Total Public Repos:** 16  
-**Total Stars:** 195 • **Total Forks:** 17  
+**Update:** 2026-09-18T17:22:46.679Z  
+**Last run (UTC):** Fri, 18 Sep 2026 17:22:46 GMT  
+**Force Update Token:** 1789752172302-qmoyey  
+**Total Public Repos:** 17  
+**Total Stars:** 189 • **Total Forks:** 17  
 **Open Issues:** 2 • **Open PRs:** 0
 <!-- STATS:END -->
 
@@ -14,25 +14,25 @@
 <!-- LANGS:START -->
 Language | Percentage
 --- | ---
-Jupyter Notebook | 49.3%
-JavaScript | 14.1%
-TypeScript | 12.2%
-Python | 10.5%
-CSS | 5.9%
-Dart | 3.8%
-HTML | 3.7%
+Jupyter Notebook | 47.8%
+JavaScript | 15.0%
+TypeScript | 11.8%
+Python | 10.2%
+CSS | 5.7%
+HTML | 4.0%
+Dart | 3.6%
+Handlebars | 1.3%
 Kotlin | 0.2%
 Dockerfile | 0.1%
-Batchfile | 0.0%
 <!-- LANGS:END -->
 
 ## Last 5 Updated Repositories
 <!-- RECENT:START -->
 Repo | Stars | Forks | Updated
 --- | --- | --- | ---
+[mern-app-builder](https://github.com/hafilrazz/mern-app-builder) | 0 | 0 | 2026-09-18
 [Automated-updates](https://github.com/hafilrazz/Automated-updates) | 2 | 1 | 2026-09-18
 [Fire-Smoke-Detection](https://github.com/hafilrazz/Fire-Smoke-Detection) | 0 | 1 | 2026-09-14
 [newmajor](https://github.com/hafilrazz/newmajor) | 13 | 1 | 2026-09-13
 [hafilrazz.github.io](https://github.com/hafilrazz/hafilrazz.github.io) | 0 | 1 | 2026-09-07
-[portshell](https://github.com/hafilrazz/portshell) | 3 | 0 | 2026-09-07
 <!-- RECENT:END -->
